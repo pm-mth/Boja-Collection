@@ -59,7 +59,7 @@
     align-items:center;
     justify-content:center;
 }
-.hero-right img{
+.hero-right img{  /* Added to  fit the image into the screen*/
     height: 100%;
     
 }
