@@ -1,3 +1,4 @@
+
 # Boja-Collection
 
 Boja means "Big" in Afan Oromo. Boja-Collection is a Full Stack E-Commerce App I am starting to build while learning full-stack development using the MERN stack (MongoDB, Express, React, Node.js). The platform will offer items for men, women, and kids.
@@ -30,3 +31,4 @@ The project is in its early stages. I am currently working on setting up the fro
 ## Contact
 
 Feel free to reach out with suggestions or feedback!
+
